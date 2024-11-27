@@ -39,22 +39,22 @@ p {
     gap: 10px;
 }
 
-.categoria {
+.lista {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
 }
 
-.categoria-videos img {
+.lista img {
     opacity: 0.5;
     height: 200px;
 }
 
-.categoria-videos img:hover {
+.lista img:hover {
     opacity: 1.0;
     border: 3px solid green;
 }
 
-.categoria h2 {
+.lista h2 {
     color: rgb(42, 122, 228);
 }
